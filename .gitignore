@@ -1,0 +1,5 @@
+/venv/
+/__pycache__/
+.env
+replit.nix
+replit_zip_error_log.txt
